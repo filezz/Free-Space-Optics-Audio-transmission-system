@@ -37,3 +37,8 @@ The receiver detects the modulated light and reconstructs the original audio sig
 ## Feedback and Contact
 Constructive feedback regarding the analog design, PCB routing or any remarks is highly appreciated. Feel free to reach out with any questions about the build process!
 
+## Video Demo 
+
+
+https://github.com/user-attachments/assets/735036c2-cf16-4613-968e-57b23f6b1dae
+
