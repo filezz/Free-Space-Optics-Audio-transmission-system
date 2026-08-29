@@ -27,9 +27,8 @@ The receiver detects the modulated light and reconstructs the original audio sig
   * Analog Audio Amplifier IC (e.g., LM386)
 
 ## Repository Structure
-* `/Schematics`: PDF exports of the TX and RX circuit diagrams.
 * `/KiCad`: The raw KiCad 9 project files, including custom layouts, footprints, and symbols.
-* `/Media`: Video demonstrations of the working breadboard prototype and 3D renders of the final PCB design.
+* `/Media`: Video demonstrations of the working breadboard prototype and 3D renders of the final PCB design + Kicad Screenshots.
 
 ## Author
 **Mark Capatina**  
